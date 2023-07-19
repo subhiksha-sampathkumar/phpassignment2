@@ -1,0 +1,27 @@
+html {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(45deg, #ffffff, #c5b7ff, #3300ff);
+    color: #ffffff;
+    height: 150vh;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form {
+    width: 50%;
+    border: 1px solid #9dff00;
+    border-radius: 2px;
+    margin: 100px auto;
+    padding: 10px;
+    box-shadow: 0px 0px 10px #73ff00;
+}
+
+fieldset {
+    border: 1px solid #48ff00;
+    background-color: #3b00007e;
+}
+
+legend {
+    color: #000000;
+    font-weight: bold;
+}
